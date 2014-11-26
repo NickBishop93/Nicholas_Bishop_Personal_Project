@@ -14,4 +14,4 @@ For this personal Project, I decided to make a website that highlighted my knowl
   <li>Links to LinkedIn and Github</li>
 </ul>
 
-https://nickbishop93.github.io/
+View Screenshots for page look
