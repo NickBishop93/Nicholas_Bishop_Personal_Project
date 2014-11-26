@@ -13,3 +13,5 @@ For this personal Project, I decided to make a website that highlighted my knowl
   <li>Education</li>
   <li>Links to LinkedIn and Github</li>
 </ul>
+
+https://nickbishop93.github.io/
